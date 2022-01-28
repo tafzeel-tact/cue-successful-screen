@@ -1,0 +1,18 @@
+.icons {
+  display: flex;
+  margin-right: 2.0px;
+  margin-top: 8px;
+  width: 139px;
+}
+
+.iconoirfacebook {
+  height: 25px;
+  width: 25px;
+}
+
+.icon {
+  height: 25px;
+  margin-left: 32px;
+  width: 25px;
+}
+

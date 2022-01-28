@@ -1,0 +1,191 @@
+.footer {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 370.9px;
+  margin-top: 80px;
+  width: 1680px;
+}
+
+.content {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  margin-left: 8.45%;
+  margin-right: 8.21%;
+  margin-top: 16px;
+  min-height: 322.9px;
+  width: 1400px;
+}
+
+.logo-1 {
+  height: 35px;
+  margin-right: 5.0px;
+  width: 99px;
+}
+
+.group-38710 {
+  display: flex;
+  margin-right: 4.0px;
+  margin-top: 32px;
+  width: 672px;
+}
+
+.join-cue {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 37px;
+  width: 81px;
+}
+
+.join-cue-1 {
+  flex: 1;
+  height: 21px;
+  letter-spacing: 0.84px;
+  margin-left: 9.88%;
+  margin-right: 9.88%;
+  text-align: center;
+  width: 65px;
+}
+
+.blog {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 37px;
+  margin-left: 24px;
+  width: 49px;
+}
+
+.blog-1 {
+  flex: 1;
+  height: 21px;
+  letter-spacing: 0.84px;
+  margin-left: 16.33%;
+  margin-right: 16.33%;
+  text-align: center;
+  width: 33px;
+}
+
+.faq {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 37px;
+  margin-left: 24px;
+  width: 54px;
+}
+
+.fa-qs {
+  flex: 1;
+  height: 21px;
+  letter-spacing: 0.84px;
+  margin-left: 14.81%;
+  margin-right: 14.81%;
+  text-align: center;
+  width: 38px;
+}
+
+.terms-conditions {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 37px;
+  margin-left: 24px;
+  width: 167px;
+}
+
+.terms-conditions-1 {
+  flex: 1;
+  height: 21px;
+  letter-spacing: 0.84px;
+  margin-left: 4.79%;
+  margin-right: 4.79%;
+  text-align: center;
+  width: 151px;
+}
+
+.privacy-policy {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 37px;
+  margin-left: 24px;
+  width: 123px;
+}
+
+.privacy-policy-1 {
+  flex: 1;
+  height: 21px;
+  letter-spacing: 0.84px;
+  margin-left: 6.5%;
+  margin-right: 6.5%;
+  text-align: center;
+  width: 107px;
+}
+
+.contact {
+  align-items: center;
+  background-color: var(--black);
+  display: flex;
+  height: 37px;
+  margin-left: 24px;
+  width: 78px;
+}
+
+.place {
+  flex: 1;
+  height: 21px;
+  letter-spacing: 0.84px;
+  margin-left: 10.26%;
+  margin-right: 10.26%;
+  text-align: center;
+  width: 62px;
+}
+
+.lorem-ipsum-dolor-si {
+  letter-spacing: 0.84px;
+  margin-right: 4.0px;
+  margin-top: 32px;
+  min-height: 46px;
+  text-align: center;
+  width: 1250px;
+}
+
+.social {
+  align-self: flex-end;
+  display: flex;
+  height: 23px;
+  margin-right: 30.3px;
+  margin-top: 32px;
+  position: relative;
+  width: 746px;
+}
+
+.up-shevron {
+  height: 10px;
+  margin-left: 579.7px;
+  margin-top: 6.2px;
+  width: 18px;
+}
+
+.divider-1 {
+  height: 1px;
+  margin-right: 4.0px;
+  margin-top: 39px;
+  width: 1396px;
+}
+
+.x2021-cue-all-rights-reserved {
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 36.7px;
+  margin-right: 4.0px;
+  margin-top: 16px;
+  text-align: center;
+  white-space: nowrap;
+  width: 956px;
+}
+

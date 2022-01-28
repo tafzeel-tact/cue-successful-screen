@@ -1,0 +1,167 @@
+.w1-a5-successful-congratulations {
+  background-color: var(--mirage);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  min-height: 1991px;
+  min-width: 1680px;
+  position: relative;
+  width: 100%;
+}
+
+.transaction-card {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  height: 628px;
+  justify-content: flex-end;
+  margin-left: 514px;
+  margin-top: 40px;
+  min-width: 652px;
+}
+
+.overlap-group {
+  align-items: center;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: -30px;
+  min-height: 713px;
+  padding: 54px 45px;
+  position: relative;
+  width: 737px;
+}
+
+.overlap-group1 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-size: 100% 100%;
+  display: flex;
+  flex-direction: column;
+  margin-top: 14px;
+  min-height: 288px;
+  padding: 30px 38px;
+  width: 621px;
+}
+
+.card-information {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  min-height: 104px;
+  width: 545px;
+}
+
+.title {
+  letter-spacing: 1.44px;
+  line-height: 31.9px;
+  min-height: 64px;
+  width: 545px;
+}
+
+.time-tag {
+  background-color: var(--black-3);
+  border-radius: 20.48px;
+  display: flex;
+  height: 24px;
+  margin-top: 16px;
+  width: 253px;
+}
+
+.address {
+  flex: 1;
+  letter-spacing: 0.96px;
+  margin-left: 6.32%;
+  margin-right: 6.32%;
+  text-align: center;
+  width: 221px;
+}
+
+.divider {
+  height: 1px;
+  margin-top: 16px;
+  width: 545px;
+}
+
+.price-information {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+  min-height: 61px;
+  width: 545px;
+}
+
+.heading {
+  align-items: flex-start;
+  display: flex;
+  min-width: 549px;
+}
+
+.amount {
+  height: 26px;
+  letter-spacing: 1.08px;
+  line-height: 3.2px;
+  width: 151px;
+}
+
+.total {
+  align-self: flex-end;
+  height: 26px;
+  letter-spacing: 1.08px;
+  line-height: 3.2px;
+  margin-bottom: 0;
+  margin-left: 331px;
+  text-align: right;
+  width: 63px;
+}
+
+.price {
+  align-items: flex-start;
+  display: flex;
+  margin-top: 8px;
+  min-width: 549px;
+}
+
+.surname {
+  height: 26px;
+  letter-spacing: 1.32px;
+  line-height: 4.0px;
+  width: 222px;
+}
+
+.text-1 {
+  height: 26px;
+  letter-spacing: 1.32px;
+  line-height: 4.0px;
+  margin-left: 184px;
+  text-align: right;
+  width: 139px;
+}
+
+.share {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 22.0px;
+  margin-top: 11px;
+  min-height: 56px;
+  position: relative;
+  width: 141px;
+}
+
+.title-1 {
+  height: 23px;
+  letter-spacing: 0.96px;
+  margin-right: 2.0px;
+  text-align: center;
+  width: 106px;
+}
+
+.shevron {
+  height: 33px;
+  margin-left: 824px;
+  margin-top: 23.5px;
+  width: 32px;
+}
+

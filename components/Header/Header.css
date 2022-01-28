@@ -1,0 +1,26 @@
+.header {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-right: 25.0px;
+  margin-top: 28px;
+  min-height: 103px;
+  width: 588px;
+}
+
+.transaction-successful {
+  height: 35px;
+  letter-spacing: 1.44px;
+  text-align: center;
+  width: 367px;
+}
+
+.the-cue-has-been-add {
+  letter-spacing: 1.08px;
+  line-height: 28.6px;
+  margin-top: 8px;
+  min-height: 60px;
+  text-align: center;
+  width: 588px;
+}
+
